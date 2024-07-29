@@ -15,10 +15,12 @@ Extract Titles: The JSON string is parsed to extract the titles of news articles
 Print Titles: The extracted titles are printed to the console.
 6. Error Handling
 Exception Handling: Any exceptions that occur during the process are caught and printed to the console.
-Creating an API Key
-To create an API key:
 
-Click the link to visit the News API official website.
-Click the "Generate API Key" button.
-Enter your email and password, then submit.
-Copy the API key and paste it into your program.
+
+
+Creating an API Key: News API official website
+
+1. Click the link to visit the News API official website.
+2. Click the "Generate API Key" button.
+3. Enter your email and password, then submit.
+4. Copy the API key and paste it into your program.
